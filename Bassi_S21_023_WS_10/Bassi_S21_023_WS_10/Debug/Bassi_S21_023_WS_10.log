@@ -1,0 +1,54 @@
+﻿  Bassi_S21_023_WS_10.cpp
+C:\Users\jaive\source\repos\Bassi_S21_023_WS_10\Bassi_S21_023_WS_10\Bassi_S21_023_WS_10.cpp(149,54): warning C4302: 'type cast': truncation from 'HWND' to 'WORD'
+D:\IDE\VC\Tools\MSVC\14.28.29333\include\xstring(2468,23): warning C4244: 'argument': conversion from '_Elem' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=wchar_t
+          ]
+          and
+          [
+              _Elem=char
+          ]
+D:\IDE\VC\Tools\MSVC\14.28.29333\include\xstring(2479): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_Iter>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+D:\IDE\VC\Tools\MSVC\14.28.29333\include\xstring(2479): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_Iter>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+D:\IDE\VC\Tools\MSVC\14.28.29333\include\xstring(2459): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_Iter>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+D:\IDE\VC\Tools\MSVC\14.28.29333\include\xstring(2459): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_Iter>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+D:\IDE\VC\Tools\MSVC\14.28.29333\include\xstring(3092): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<_Iter,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Iter=TCHAR *,
+              _Alloc=std::allocator<char>
+          ]
+D:\IDE\VC\Tools\MSVC\14.28.29333\include\xstring(3092): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<_Iter,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Iter=TCHAR *,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\jaive\source\repos\Bassi_S21_023_WS_10\Bassi_S21_023_WS_10\Bassi_S21_023_WS_10.cpp(177): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::assign<TCHAR*,0>(const _Iter,const _Iter)' being compiled
+          with
+          [
+              _Iter=TCHAR *
+          ]
+C:\Users\jaive\source\repos\Bassi_S21_023_WS_10\Bassi_S21_023_WS_10\Bassi_S21_023_WS_10.cpp(174): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::assign<TCHAR*,0>(const _Iter,const _Iter)' being compiled
+          with
+          [
+              _Iter=TCHAR *
+          ]
+  Bassi_S21_023_WS_10.vcxproj -> C:\Users\jaive\source\repos\Bassi_S21_023_WS_10\Debug\Bassi_S21_023_WS_10.exe
